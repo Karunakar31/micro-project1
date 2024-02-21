@@ -1,0 +1,91 @@
+input[type="button"]{
+    background-color: #000000;
+    color: white;
+    border-radius: 9px;
+    padding: 1px 1px;
+    text-align: center;
+    text-decoration:none;
+    font-weight: bold;
+    display: inline-block;
+    font-size: 26px;
+    margin: 9px 12px;
+    cursor: pointer;  
+    height: 83px;
+    width: 282px; 
+    }
+
+    input[type="email"]{
+        border: 6px solid black;
+        border-radius: 10px;
+        height: 65px;
+        width: 450px;
+        padding-top: 9px;
+        padding-bottom: 1px;
+    }
+
+    ::placeholder {
+    padding-left: 20px;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+
+    div.box1 {
+        background-color: #FFCD9E;
+        padding: 55px 150px 56px 190px;
+        font-size: 30px;
+        height: 694px;
+        width:900px;
+    }
+
+    
+
+    #left {
+        font-size:50px;
+        font-family: 'inter';
+        font-weight: 700;
+        line-height: 1.5;
+        margin-bottom: 30px;
+    }
+
+    #img1 {
+        background-color: #FFCD9E;
+        padding-right:40px;
+    }
+
+    #container {
+        display:flex;
+    }
+    #sub2 {
+        margin-top: 55px;
+        font-size:30px;
+    }
+
+    ul.lf {
+    list-style-type: none;
+    margin-top: none;
+    font-family: inter;
+    width: 50%;
+    }
+
+    ul.rf {
+    list-style-type: none;
+    margin-top: none;
+    font-family: inter;
+    text-align: right;
+    width:50%;
+    padding-right: 250px;
+    }
+
+    #footer {
+        display: flex;
+        background-color: #282828;
+        color: white;
+        font-size: 25px;
+        line-height: 1.6;
+        position: fixed;
+        padding-left: 230px;
+        top: 744px;
+        height:240px;
+        width: 88%;
+    }
